@@ -9,11 +9,7 @@ Installation
 
 .. code-block:: bash
 
-    # Transport plugins are supported only in the development version of HTTPie:
-    $ pip install --upgrade https://github.com/jakubroztocil/httpie/tarball/master
-
-    # This plugin is not on PyPi yet:
-    $ pip install --upgrade https://github.com/jakubroztocil/httpie-http2/tarball/master
+    $ pip install -U httpie httpie-http2
 
 
 Usage
