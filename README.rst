@@ -3,6 +3,8 @@ httpie-http2
 
 Experimental HTTP/2 plugin for `HTTPie <http://httpie.org>`_.
 
+See: https://lukasa.co.uk/2015/02/Hyper_State_Of_Union/
+
 
 Installation
 ------------
