@@ -17,7 +17,12 @@ Usage
 
 .. code-block:: bash
 
-    $ http https://host
+    $ http https://nghttp2.org/httpbin/get
+
+
+.. image:: screenshot.png
+    :alt: HTTPie HTTP/2
+    :align: center
 
 
 Requirements
