@@ -27,7 +27,7 @@ Usage
 Requirements
 ------------
 
-* Python 3.4
+* Python 2.7.9 or 3.4+
 * hyper_
 
 .. _hyper: https://github.com/Lukasa/hyper
